@@ -7,9 +7,6 @@ Computer Science graduate (Wichita State University) and Master of Data Science 
 - Generative AI and LLM applications
 - Data wrangling and multi-source integration
 
-### Tech
-`Python` · `Pandas` · `Scikit-learn` · `XGBoost` · `OpenAI API` · `SQL`
-
 ### Connect
 - 🌐 Portfolio: [cronosus99.github.io](https://cronosus99.github.io)
 - 💼 LinkedIn: [linkedin.com/in/kevin-danh](https://www.linkedin.com/in/kevin-danh-4514ba273/)
