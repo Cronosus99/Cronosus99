@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Danh 👋
 
-Computer Science and Data Science graduate at Bellevue University. I build projects across machine learning, generative AI, and data engineering--turning data into practical, decision-ready insight.
+Computer Science graduate (Wichita State University) and Master of Data Science graduate from Bellevue University. I build projects across machine learning, generative AI, and data engineering--turning data into practical, decision-ready insight.
 
 ### Focus Areas
 - Machine learning & predictive modeling
